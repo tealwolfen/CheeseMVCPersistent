@@ -1,10 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
-using System;
-using System.Collections.Generic;
 
 namespace CheeseMVC.Migrations
 {
-    public partial class AddCategory : Migration
+    public partial class AddMenu : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
